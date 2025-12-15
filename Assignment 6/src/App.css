@@ -1,0 +1,44 @@
+.container { 
+  width: 600px;
+  margin: 0 auto; 
+  padding: 20px; 
+  border: 1px solid #ccc;
+}
+
+.container h2 { 
+  text-align: center;
+}
+
+.container input { 
+  width: 80%; 
+  padding: 10px; 
+  margin-right: 10px; 
+  border: 1px solid #ccc;   
+}
+
+.container button { 
+  padding: 10px 15px;
+  background: #000;
+  border: none; 
+  color: white; 
+  border-radius: 5px; 
+  cursor: pointer;
+}
+
+.container ul { 
+  padding: 0; 
+}
+
+.container li { 
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 10px;
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center;
+}
+
+
+
+
+
